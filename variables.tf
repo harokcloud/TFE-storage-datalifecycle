@@ -1,3 +1,4 @@
+
 variable "resource_group_name" {
   description = "Resource Group name to host keyvault"
   type        = string
