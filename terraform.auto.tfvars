@@ -1,3 +1,4 @@
+
 resource_group_name       = "terrafor"
 location                  = "EastUS"
 is_hns_enabled            = true
