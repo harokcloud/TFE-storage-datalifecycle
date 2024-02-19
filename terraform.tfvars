@@ -1,3 +1,4 @@
+
 resource_group_name       = "terraform"
 location                  = "centralindia"
 is_hns_enabled            = true
