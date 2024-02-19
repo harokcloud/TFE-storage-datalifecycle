@@ -1,3 +1,4 @@
+
 module "datalifecycle" {
   source                           = "./modules/services/datalifecycle"
   blob_storage_cors_origins        = var.blob_storage_cors_origins
