@@ -15,6 +15,9 @@ storage_account_container_config = {
   "StorageAccountName2" = {
     "Container2"       = { "LifeCycleAction1" : "NumberOfDays", "LifeCycleAction1" : "NumberOfDays" }
   }
+  "StorageAccountName4" = {
+    "Container2"       = { "LifeCycleAction1" : "NumberOfDays", "LifeCycleAction3" : "NumberOfDays" }
+  }
   "StorageAccountName3" = {
     "Container3"       = { "LifeCycleAction1" : "NumberOfDays" }
     "Container4"       = {   }
